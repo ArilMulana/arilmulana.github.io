@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ArilMulana/arilmulana.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArilMulana/arilmulana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<body>
+<p><img src="https://user-images.githubusercontent.com/14831167/30286819-2533992c-974d-11e7-99a4-e65dda9fcaa4.jpg"></img></p>
+<p>Candy Crush Saga, game dengan latar dunia permen adalah game yang paling laris saat ini. Game puzzle buatan King.com ini telah menarik jutaan pemain di seluruh dunia dalam waktu singkat. Game ini rilis pada 12 April 2012 di Facebook. Versi mobile App dirilis pada 14 November di tahun yang sama. Pada Maret 2013 game ini dimainkan sekitar 46 juta orang per bulan atau sekitar 1,5 juta orang per hari. Saat ini 6 juta manusia bermain game ini setiap harinya. Menurut para pengamat, game ini menjadi game yang paling banyak diunduh selama tahun 2013.</p>
+<p> Adapun alasan- alasan kenapa pada saat itu banyak orang yang suka dengan game ini </p>
+<p>1). Simple</p>
+<p><img src="https://user-images.githubusercontent.com/14831167/30287441-49264896-974f-11e7-9093-c037b0eb94ca.jpg"></img></p>
+<p>Game ini sangat mudah dan tidak perlu kecerdasan khusus untuk memainkannya. Kemampuan bermain dan pengalaman tidak berlaku di game ini. Faktor keberuntungan menjadi kunci utama untuk dapat menyelesaikan setiap levelnya. Tingkat kesulitan sesungguhnya ada di komposisi permen yang tersusun di papan permainan secara acak. Kalau kamu beruntung, game ini sangat mudah dimainkan</p>
+<p>2). Kecanduan</p>
+<p>Game manis ini secara diam-diam membuatmu kecanduan untuk terus bermain. Setiap level tampak sederhana dan membuatmu merasa mampu menyelesaikannya. Bahkan saat kamu kalah, kamu akan semakin percaya diri untuk menang.</p>
+<p>3).Tanpa Ending</p>
+<p>Sejauh apapun kamu bermain kamu tidak akan pernah menamatkan game ini. Bahkan kalau kamu mampu mencapai level terakhir, maka kamu akan menemukan daerah berikutnya dengan label “under construction” alias sedang dibangun oleh pembuat gamenya</p>
+<p align="center">Kesimpulan</p>
+<p>Game Candy Crush ini telah membuktikan bahwa game yang tidak memiliki graphic yang bagus tidak selamanya akan kalah. karena kebanyakan para user candy crush awalnya mencoba game ini untuk iseng iseng saja. tetapi, ketika user sudah bermain di game ini maka dijamin user tersebut akan dibuat penasaran. karena user tersebut dipaksa untuk menyelesaikan rintangan" di setiap levelnya. sehingga munculnya kepuasaan sendiri untuk user ketika dia berhasil menyelesaikan level di game tersebut.</p>
+</body>
+</html>
