@@ -18,8 +18,5 @@
 </html>
 
 # [](#header-1)Designer Review
-
-**Concept**
-
-<a href="designer.html">About Me</a>
+Untuk Melihat Review dibagian Designer dimohon untuk mengclick <a href="designer.html">Link Ini</a>
 
