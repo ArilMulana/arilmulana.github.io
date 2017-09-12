@@ -1,3 +1,5 @@
+
+# [](#header-1)Player Review
 <html>
 <body>
 <p><img src="https://user-images.githubusercontent.com/14831167/30286819-2533992c-974d-11e7-99a4-e65dda9fcaa4.jpg"></p>
@@ -14,3 +16,10 @@
 <p>Game Candy Crush ini telah membuktikan bahwa game yang tidak memiliki graphic yang bagus tidak selamanya akan kalah. karena kebanyakan para user candy crush awalnya mencoba game ini untuk iseng iseng saja. tetapi, ketika user sudah bermain di game ini maka dijamin user tersebut akan dibuat penasaran. karena user tersebut dipaksa untuk menyelesaikan rintangan" di setiap levelnya. sehingga munculnya kepuasaan sendiri untuk user ketika dia berhasil menyelesaikan level di game tersebut.</p>
 </body>
 </html>
+
+# [](#header-1)Designer Review
+
+**Concept**
+
+<a href="designer.html">About Me</a>
+
