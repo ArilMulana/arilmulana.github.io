@@ -21,4 +21,5 @@
 
 **Concept**
 
-> 
+<a href="designer.html">About Me</a>
+
